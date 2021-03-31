@@ -1,16 +1,10 @@
-# VehicleFireworks FR
-Script tout simple pour lancer un feu d'artifice depuis votre véhicule
-
-----------------------------------------------------------------------------
-
-# VehicleFireworks EN
-Simple script to make an fireworks from your vehicule - 
+# VehicleFireworks
+Simple standalone script to throw fireworks from a vehicle.
 
 ----------------------------------------------------------------------------
 
 # Benchmark
-Pas d'impact sur le server, c'est juste une commande qui va appeler des effets de particules natifs.
-No impact on serveur, juste a command that's call native Fx particules
+ms: 0.0
+Only uses a command which doesn't affect the performance on the server.
 
-- Testé sur un serveur avec plus de 400 joueurs simultané
 - Tested on a server with more 400 players at the same time
