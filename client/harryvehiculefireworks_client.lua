@@ -1,29 +1,29 @@
 --*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*--
 --*--------------------------------- HARRY VEHICLE FIREWORKS BY HARRY "AZRADEVOPS" -----------------------------*--
---*																												*--
---*																												*--
---*-- FR --																										*--
---*   v 1.0.0 du 31/03/2021 (pour les différentes étapes du dev, lisez le fichier README_DEV.md)				*--
---*   > Ajout d'une commande pour pouvoir lancer un feu d'artifice depuis un véhicule							*--
---*   			> Script écrit initialement pour être utilisé depuis un gros véhicule comme un Yatch			*--
---*																												*--
+--*														*--														*--
+--*														*--
+--*-- FR --													*--
+--*   v 1.0.0 du 31/03/2021 (pour les différentes étapes du dev, lisez le fichier README_DEV.md)		*--
+--*   > Ajout d'une commande pour pouvoir lancer un feu d'artifice depuis un véhicule				*--
+--*   			> Script écrit initialement pour être utilisé depuis un gros véhicule comme un Yatch	*--
+--*														*--
 --*   Tous commentaires ou aides sont les bienvenus, allez sur  https://github.com/AzraDevOps/VehicleFireworks 	*--
---*																												*--
---*																												*--
---*-- EN --																										*--
---*   v 1.0.0 of 31/03/2021 (for the roadmap dev read README_DEV.md)											*--
---*   > Add command to run a fireworks from a vehicule															*--
---*   			> Script initialy wrote to be use from a heavy vehicle like a Yatch								*--
---*																												*--
---*   All comments or help welcome , go on  https://github.com/AzraDevOps/VehicleFireworks						*--
---*																												*--
---*																												*--
+--*														*--
+--*														*--
+--*-- EN --													*--
+--*   v 1.0.0 of 31/03/2021 (for the roadmap dev read README_DEV.md)						*--
+--*   > Add command to run a fireworks from a vehicule								*--
+--*   			> Script initialy wrote to be use from a heavy vehicle like a Yatch			*--
+--*														*--
+--*   All comments or help welcome , go on  https://github.com/AzraDevOps/VehicleFireworks			*--
+--*														*--
+--*														*--
 --*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*--
 
 
 
 --*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*--
---*	DECLARATIONS VARIABLES & CONFIG & ESX FRAMEWORK			*--
+--*	DECLARATIONS VARIABLES & CONFIG & ESX FRAMEWORK	    *--
 --*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*--
 
 ESX = nil
@@ -43,7 +43,7 @@ end) -- Fin Citizen.CreateThread(function()
 
 
 --*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*--
---*	FONCTIONS 						 						*--
+--*	FONCTIONS 					    *--
 --*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*--
 
 -- Pas de fonctions nécessaires pour ce script
@@ -52,7 +52,7 @@ end) -- Fin Citizen.CreateThread(function()
 
 
 --*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*--
---*	THREADS 						 						*--
+--*	THREADS 					    *--
 --*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*--
 
 -- Pas de threads nécessaires pour ce script
@@ -61,7 +61,7 @@ end) -- Fin Citizen.CreateThread(function()
 
 
 --*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*--
---*	COMMANDS 						 						*--
+--*	COMMANDS 					    *--
 --*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*--
 
 -- Commande qui permets de lancer un feu d'artifices depuis un véhicule.
