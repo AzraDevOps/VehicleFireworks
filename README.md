@@ -12,5 +12,8 @@ Simple script to make an fireworks from your vehicule -
 Pas d'impact sur le server, c'est juste une commande qui va appeler des effets de particules natifs.
 No impact on serveur, juste a command that's call native Fx particules
 
+CPU msec    Time %     Memory 
+0.00        0.00       10.11KiB+
+
 - Testé sur un serveur avec plus de 400 joueurs simultané
 - Tested on a server with more 400 players at the same time
